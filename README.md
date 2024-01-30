@@ -1,0 +1,1 @@
+Add verify payment url in VerifyCsrfToken.php to avoid token / 419 error
